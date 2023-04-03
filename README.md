@@ -1,2 +1,2 @@
 # ENVR601
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lauraannallen/ENVR601.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lauraannallen/ENVR601/HEAD)
